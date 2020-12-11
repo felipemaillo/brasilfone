@@ -9,7 +9,7 @@ Após a instalação dos pacotes, execute <b>yarn start</b>, o navegador irá ab
 ## Sobre as imagens
   - Como não encontrei as imagens exibida nos exemplos, tomei a liberdade de pegar algumas na internet.
 
-## Sobre o código/inteface desevolvida
+## Sobre o código/inteface desenvolvida
   - Estou começando com o desenvolvimento Web (trabalho a 8 anos com desenvolvimento desktop), então tive algumas dificuldades como:
     - Coloração no checkbox.
     - Mensagem de erro ao preencher incorretamente os inputs.
