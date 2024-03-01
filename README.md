@@ -1,4 +1,4 @@
-# Brasilfone - DevWebChallenge
+# Brasilfone
 # Front-End
 
 Para rodar a aplicação será necessário clonar o repositório, logo após executar o comando <b>yarn install</b> em seu terminal.
